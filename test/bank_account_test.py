@@ -3,7 +3,6 @@
 from nose.tools import *
 from lib.bank_account import BankAccount
 
-
 def test_bank_account_requires_an_account_number():
     assert_raises(TypeError, BankAccount)
     assert_raises(TypeError, BankAccount, amount=1300)
