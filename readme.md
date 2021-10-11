@@ -2,7 +2,7 @@
 
 Den här uppgiften går ut på att skriva en klass för att hantera bankkonton.
 
-## Bedömningsmatris ##
+## Bedömningsmatris
 
 ## Planering ##
 
