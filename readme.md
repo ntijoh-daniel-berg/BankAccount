@@ -2,7 +2,7 @@
 
 Den här uppgiften går ut på att skriva en klass för att hantera bankkonton.
 
-## Bedömningsmatris ##
+## Bedömningsmatris
 
 ## Planering ##
 
@@ -86,4 +86,3 @@ Kör `nosetests test\bank_account_test.py` för att köra testerna.
 * [What's the point of properties in Python?](http://blaag.haard.se/What-s-the-point-of-properties-in-Python/)
 * [Properties vs. Getters and Setters](http://www.python-course.eu/python3_properties.php)
 * [Learn Python The Hard Way - Exercise 41: Learning To Speak Object Oriented](http://learnpythonthehardway.org/book/ex41.html)
-
